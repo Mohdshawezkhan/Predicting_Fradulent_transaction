@@ -18,12 +18,6 @@ README.md: Project documentation.
 How to Run
 Clone the Repository: https://github.com/Mohdshawezkhan/Predicting_Fradulent_transaction/blob/main/Main.ipynb
 
-Navigate to Project Directory:
-
-bash
-Copy code
-cd fraud-detection-project
-
 Download Dataset:
 
 Download the dataset from the Kaggle link and place it in the data directory.
